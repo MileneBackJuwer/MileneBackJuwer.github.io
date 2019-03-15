@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Srisakdi');
+@import url('https://fonts.googleapis.com/css?family=Hammersmith+One');
+form{
+    font-family: 'Srisakdi', cursive;
+}
+.imagem{
+    width: 500px;
+    margin: 0 auto;
+    padding: auto;
+
+}
+.imagem img{
+    width: 100%;
+}
+h1{
+    font-family: 'Srisakdi', cursive;
+    text-align: center;
+    color:rgb(0, 0, 0);
+    font-size: 80px;
+    
+}
+body{
+    background-color:rgb(0, 217, 255);
+}
+.imagem2{
+    width: 100px;
+    margin: 0 auto;
+    pedding: auto;
+}
+.imagem2 img{
+    width: 100%;
+}
+p{
+    font-size: 30px;
+    text-align: center;
+}
+a{
+    font-size: 60px;
+    border-style: ridge;
+    color: black;
+    text-align: center;
+}
+.historia{
+    width: 100px;
+    margin: 0 auto;
+    pedding: auto;
+}
+.imagemada{
+    width: 10px;
+    margin: 0 auto;
+    pedding: auto;
+}
+.imagemada img{
+    width: 25%;
+
+}
+Ada{
+    font-size: 16px;
+    font-family: 'Hammersmith One', sans-serif;
+}
+.imagemadele{
+    width: 400px;
+    margin: 0 auto;
+    pedding: 0 auto;
+
+}
+.imagemadele img{
+    width: 100%
+}
+.bi img{
+    width: 33%;
+}
+.betty img{
+    width: 33%;
+}
+.info img{
+    width: 20%
+}
